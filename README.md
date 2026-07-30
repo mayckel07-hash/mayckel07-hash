@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mayckel <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, soy Mayckel <img height="40" src="[(https://emojiterra.com/es/hombre-corriendo/)]"></h1>
 <h3 align="center">soy entusiata de Python y Front-End (soy diseñador junior) de Panama</h3>
 
 - 🔭 Tengo mi certificació de curso de Python avanzado.
