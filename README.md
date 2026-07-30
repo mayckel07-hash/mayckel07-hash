@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mayckel <img height="40" src="[https://emojiterra.com/es/hombre-corriendo/]"></h1>
+<h1 align="center">Hola 👋, soy Mayckel <img height="40" src="https://emojiterra.com/es/hombre-corriendo/"></h1>
 <h3 align="center">soy entusiata de Python y Front-End (soy diseñador junior) de Panama</h3>
 
 - 🔭 Tengo mi certificació de curso de Python avanzado.
@@ -36,8 +36,8 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="[https://www.flaticon.com/free-icon/github-logo_25231]" alt="git" width="40" height="40"/> 
+  <a href="https://www.github.com//" target="_blank"> 
+    <img src="https://www.flaticon.com/free-icon/github-logo_25231" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
