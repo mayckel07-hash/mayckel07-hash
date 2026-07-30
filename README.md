@@ -34,11 +34,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> -->
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.github.com//" target="_blank"> 
-    <img src="https://emoji.gg/emoji/444671-github" alt="git" width="40" height="40"/> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+</a> 
+<a href="https://github.com/" target="_blank"> 
+  <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40"/> 
+</a>
 </p>
 
 
