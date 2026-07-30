@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mayckel <img height="40" src="https://emojiterra.com/es/hombre-corriendo/"></h1>
+<h1 align="center">Hola 👋, soy Mayckel <img height="40" src="https://iconos8.es/icon/ANs1L04jJGMM/hombre-corriendo/"></h1>
 <h3 align="center">soy entusiata de Python y Front-End (soy diseñador junior) de Panama</h3>
 
 - 🔭 Tengo mi certificació de curso de Python avanzado.
@@ -14,7 +14,6 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayckel-de-leon-50661127b/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayckel07/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.mayckel07@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayckel07@gmail.com)
 
   
