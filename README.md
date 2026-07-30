@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.github.com//" target="_blank"> 
-    <img src="https://www.flaticon.com/free-icon/github-logo_25231" alt="git" width="40" height="40"/> 
+    <img src="https://emoji.gg/emoji/444671-github" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
